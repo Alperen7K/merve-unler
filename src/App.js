@@ -5,7 +5,7 @@ import phone from "./assets/phone-call.png";
 import linkedin from "./assets/linkedin.png";
 import instagram from "./assets/instagram.png";
 import ozteknik from "./assets/ozteknik-logo.png";
-import mustafa from "./assets/merve-ünler.webp";
+import mustafa from "./assets/merve-ünler.png";
 
 function App() {
   let iconClass = "w-[30px] lg:w-[45px] my-[4px] mr-2 lg:mr-4";
