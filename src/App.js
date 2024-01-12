@@ -5,7 +5,7 @@ import phone from "./assets/phone-call.png";
 import linkedin from "./assets/linkedin.png";
 import instagram from "./assets/instagram.png";
 import ozteknik from "./assets/ozteknik-logo.png";
-import mustafa from "./assets/merve-ünler.png";
+import merve from "./assets/merve-unler.png";
 
 function App() {
   let iconClass = "w-[30px] lg:w-[45px] my-[4px] mr-2 lg:mr-4";
@@ -21,7 +21,7 @@ function App() {
         <img
           alt="Merve Ünler"
           className=" h-[40vh] lg:h-[70vh] rounded-[10px] mt-4 border-solid border-4 border-black drop-shadow-[0_35px_35px_rgba(0,0,0,0.25)]"
-          src={mustafa}
+          src={merve}
         />
       </div>
       <div>
