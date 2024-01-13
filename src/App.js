@@ -15,7 +15,7 @@ function App() {
   return (
     <div
       className="w-[100%] h-[100vh]  flex flex-col lg:flex-row items-center justify-center lg:justify-evenly"
-      style={{ fontFamily: "Lucida Handwriting, Cursive" }}
+      // style={{ fontFamily: "Montserrat, sans-serif" }}
     >
       <div>
         <img
